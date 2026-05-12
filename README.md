@@ -4,7 +4,11 @@ A comprehensive silver commodity price forecasting system built during a Data An
 
 
 📊 Project Overview
-ItemDetailsInternGokul BalachanderCompanyZetheta Algorithms Private LimitedRoleData Analyst InternDurationMay 2026 – PresentProjectProject 1D: Data Analyst Commodity Price Forecasting Agent
+Intern: Gokul Balachander
+Company: Zetheta Algorithms Private Limited
+Role: Data Analyst Intern 
+Duration: March 2026 – May 2026 
+Project: Data Analyst Commodity Price Forecasting Agent
 
 🏆 Key Results
 ModelRMSEMAEMAPEDirectional AccuracyARIMA(2,1,2)2.22751.89245.65%51.39%Facebook Prophet2.94302.43557.18%49.80%XGBoost ⭐0.21600.16620.49%80.88%LSTM Neural Network————Weighted Ensemble————
@@ -13,7 +17,6 @@ ModelRMSEMAEMAPEDirectional AccuracyARIMA(2,1,2)2.22751.89245.65%51.39%Facebook 
 
 
 📁 Project Structure
-ArgentIQ/
 │
 ├── 📓 silver_forecasting.py          # Complete Python pipeline
 ├── 📄 Silver_Forecasting_Report.pdf  # Final project report
@@ -45,7 +48,7 @@ Zero missing values and zero duplicates confirmed
 Data inconsistencies reduced by 30%
 
 2. Feature Engineering
-64+ features engineered including:
+64+ features engineered, including:
 
 Technical Indicators: SMA (20, 50, 200), EMA (12, 26), MACD, RSI-14, Bollinger Bands, ATR-14, VWAP
 Lag Features: Return_Lag_1, Return_Lag_5, Return_Lag_10, Return_Lag_20
